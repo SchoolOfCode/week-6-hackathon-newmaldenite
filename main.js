@@ -20,6 +20,8 @@ import { zone1Stations } from "./data.js";
 // with a 'null' RoofRepair property - why repair the roof if you don't have one!
 // 
 // Good luck!
+// 
+// To check your results, you'll need vitest - open the terminal and type 'npm install', then 'npm run test'
 
 export function isStationUnderground() {
 
